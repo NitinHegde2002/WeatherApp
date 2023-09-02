@@ -11,7 +11,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #011d1d;
+  background: #25a8a8;
 }
 
 .container {
@@ -67,7 +67,7 @@ body {
 
 .search-box button:hover {
   color: #fff;
-  background: #043333;
+  background: #25a8a8;
 }
 
 .search-box i {
